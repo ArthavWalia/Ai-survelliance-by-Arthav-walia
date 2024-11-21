@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="kvGR7XNw5qGt7n3RQNOOJbI50O_4_Ufc8E3ax_qpPJY" />
+
 # AI Surveillance Robot with ESP32-CAM and Arduino
 
 This project is an AI-powered surveillance robot using ESP32-CAM and Arduino. The robot detects motion, starts recording video, and avoids obstacles while navigating autonomously. The system features real-time video streaming, motion detection, and a buzzer alert. It's a comprehensive surveillance solution for monitoring environments.
